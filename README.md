@@ -1,3 +1,15 @@
+# Setup
+
+```
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+```
+npm i @headlessui/react @heroicons/react
+```
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
