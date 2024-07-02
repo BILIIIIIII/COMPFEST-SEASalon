@@ -148,9 +148,7 @@ export default function App() {
               Beauty and Elegance Redefined
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
-              lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat
-              fugiat aliqua.
+              Where Your True Beauty Shines Through
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
@@ -270,7 +268,9 @@ export default function App() {
                 <h2 className="mt-2 font-bold">Haircuts and Styling</h2>
 
                 <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                  Lorem ipsum dolor sit amet consectetur.
+                  Transform your look with precision cuts and contemporary
+                  styling, tailored to highlight your natural beauty and match
+                  your personal style.
                 </p>
               </a>
 
@@ -392,7 +392,9 @@ export default function App() {
                 <h2 className="mt-2 font-bold">Manicure and Pedicure</h2>
 
                 <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                  Lorem ipsum dolor sit amet consectetur.
+                  Indulge in luxurious nail care with our comprehensive manicure
+                  and pedicure services, ensuring your hands and feet look and
+                  feel their best.
                 </p>
               </a>
 
@@ -550,7 +552,9 @@ export default function App() {
                 <h2 className="mt-2 font-bold">Facial Treatments</h2>
 
                 <p className="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                  Lorem ipsum dolor sit amet consectetur.
+                  Revitalize your skin with our specialized facial treatments,
+                  designed to cleanse, exfoliate, and rejuvenate, leaving you
+                  with a radiant and youthful glow.
                 </p>
               </a>
             </div>
@@ -701,8 +705,11 @@ export default function App() {
               </div>
 
               <p className="mt-6 max-w-md text-center leading-relaxed text-gray-500 sm:max-w-xs sm:text-left">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Incidunt consequuntur amet culpa cum itaque neque.
+                your destination for top-tier beauty services. Our website
+                offers a seamless and user-friendly experience, allowing you to
+                explore our range of services, book appointments, and learn
+                about our talented team. Discover the epitome of beauty and
+                elegance redefined with SEA Salon.
               </p>
 
               <ul className="mt-8 flex justify-center gap-6 sm:justify-start md:gap-8">
